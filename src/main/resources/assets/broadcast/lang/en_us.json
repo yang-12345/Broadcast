@@ -1,0 +1,8 @@
+{
+    "commands.broadcast.failed.itemless": "The slot does not contain any item",
+    "commands.broadcast.failed.itemless.holding": "You are not holding any item",
+    "commands.broadcast.failed.no_such_slot": "You does not have slot %s",
+    "commands.broadcast.success.dimension.overworld": "Overworld",
+    "commands.broadcast.success.dimension.the_nether": "The Nether",
+    "commands.broadcast.success.dimension.the_end": "The End"
+}

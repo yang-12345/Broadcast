@@ -1,0 +1,8 @@
+{
+    "commands.broadcast.failed.itemless": "這個欄位并並無任何物品",
+    "commands.broadcast.failed.itemless.holding": "你手上沒有任何物品",
+    "commands.broadcast.failed.no_such_slot": "你並無 %s 欄位",
+    "commands.broadcast.success.dimension.overworld": "主世界",
+    "commands.broadcast.success.dimension.the_nether": "地獄",
+    "commands.broadcast.success.dimension.the_end": "終界"
+}
