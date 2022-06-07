@@ -1,0 +1,14 @@
+{
+    "commands.broadcast.success.coord": "[%s: %s, %s, %s]",
+    "commands.broadcast.success.coord.dimension.overworld": "主世界",
+    "commands.broadcast.success.coord.dimension.the_nether": "地獄",
+    "commands.broadcast.success.coord.dimension.the_end": "終界",
+    "commands.broadcast.success.item.unstackable": "%s",
+    "commands.broadcast.success.item.stackable": "%s * %s",
+    "commands.broadcast.success.status": "[%s 生命值, %s 飢餓值]",
+    "commands.broadcast.success.status.only_health": "[%s 生命值]",
+    "commands.broadcast.failed.itemless": "這個欄位並無任何物品",
+    "commands.broadcast.failed.itemless.holding": "你手上沒有任何物品",
+    "commands.broadcast.failed.no_such_slot": "你並無 %s 欄位",
+    "permissions.requires.living_entity": "需要一個生物來執行這條指令"
+}

@@ -1,0 +1,14 @@
+{
+    "commands.broadcast.success.coord": "[%s: %s, %s, %s]",
+    "commands.broadcast.success.coord.dimension.overworld": "主世界",
+    "commands.broadcast.success.coord.dimension.the_nether": "下界",
+    "commands.broadcast.success.coord.dimension.the_end": "末地",
+    "commands.broadcast.success.item.unstackable": "%s",
+    "commands.broadcast.success.item.stackable": "%s * %s",
+    "commands.broadcast.success.status": "[%s 生命值, %s 饥饿值]",
+    "commands.broadcast.success.status.only_health": "[%s 生命值]",
+    "commands.broadcast.failed.itemless": "此栏位没有任何物品",
+    "commands.broadcast.failed.itemless.holding": "你未手持任何物品",
+    "commands.broadcast.failed.no_such_slot": "你没有%s栏位",
+    "permissions.requires.living_entity": "需要一个生物来执行此命令"
+}

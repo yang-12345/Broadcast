@@ -1,0 +1,14 @@
+{
+    "commands.broadcast.success.coord": "[%s: %s, %s, %s]",
+    "commands.broadcast.success.coord.dimension.overworld": "Overworld",
+    "commands.broadcast.success.coord.dimension.the_nether": "The Nether",
+    "commands.broadcast.success.coord.dimension.the_end": "The End",
+    "commands.broadcast.success.item.unstackable": "%s",
+    "commands.broadcast.success.item.stackable": "%s * %s",
+    "commands.broadcast.success.status": "[%s Health, %s Hungers]",
+    "commands.broadcast.success.status.only_health": "[%s Health]",
+    "commands.broadcast.failed.itemless": "The slot does not contain any item",
+    "commands.broadcast.failed.itemless.holding": "You are not holding any item",
+    "commands.broadcast.failed.no_such_slot": "You does not have slot %s",
+    "permissions.requires.living_entity": "A Mob is required to run this command here"
+}
